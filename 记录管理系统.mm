@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="&#x8bb0;&#x5f55;&#x7ba1;&#x7406;&#x7cfb;&#x7edf;" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_30551911" CREATED="1578224805297" MODIFIED="1578229365142"><hook NAME="MapStyle" zoom="0.684">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff"/>
+    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt">
@@ -91,7 +91,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="16" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="17" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="&#x8bb0;&#x5f55;" STYLE_REF="&#x4e3b;&#x9898;" POSITION="right" ID="ID_1049648015" CREATED="1578229211402" MODIFIED="1578229380634">
 <node TEXT="&#x65f6;&#x95f4;" STYLE_REF="&#x5b50;&#x4e3b;&#x9898;" ID="ID_1541487974" CREATED="1578229282082" MODIFIED="1578229651443">
 <node TEXT="&#x77ed;&#x8ba1;&#x65f6;" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1024592860" CREATED="1578230041591" MODIFIED="1578230064934"/>
@@ -115,7 +115,7 @@
 <node TEXT="&#x7ed3;&#x6784;" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1807788880" CREATED="1578230604010" MODIFIED="1578230624682"/>
 </node>
 </node>
-<node TEXT="&#x7ba1;&#x7406;" STYLE_REF="&#x4e3b;&#x9898;" FOLDED="true" POSITION="right" ID="ID_1297661826" CREATED="1578229255445" MODIFIED="1578229384962">
+<node TEXT="&#x7ba1;&#x7406;" STYLE_REF="&#x4e3b;&#x9898;" POSITION="right" ID="ID_1297661826" CREATED="1578229255445" MODIFIED="1578229384962">
 <edge COLOR="#00ffff"/>
 <node TEXT="&#x8f93;&#x5165;" STYLE_REF="&#x5b50;&#x4e3b;&#x9898;" ID="ID_623230778" CREATED="1578229416905" MODIFIED="1578230902933">
 <node TEXT="&#x6807;&#x8bb0;&#x6587;&#x672c;" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1783397311" CREATED="1578230934909" MODIFIED="1578233652344"/>
@@ -133,6 +133,14 @@
 <node TEXT="&#x6811;&#x56fe;" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_875579758" CREATED="1578234073080" MODIFIED="1578234084863"/>
 <node TEXT="&#x5217;&#x8868;" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_513940200" CREATED="1578234096873" MODIFIED="1578234111973"/>
 </node>
+</node>
+<node TEXT="&#x76f8;&#x5173;" STYLE_REF="&#x4e3b;&#x9898;" POSITION="left" ID="ID_1413739210" CREATED="1578490341091" MODIFIED="1578490444477">
+<node TEXT="anki" STYLE_REF="&#x5b50;&#x4e3b;&#x9898;" ID="ID_1912772305" CREATED="1578490360283" MODIFIED="1578490367661"/>
+<node TEXT="todo.txt" STYLE_REF="&#x5b50;&#x4e3b;&#x9898;" ID="ID_98538213" CREATED="1578490368038" MODIFIED="1578490373411"/>
+<node TEXT="&#x8ba1;&#x65f6;&#x673a;&#x5668;" STYLE_REF="&#x5b50;&#x4e3b;&#x9898;" ID="ID_177937832" CREATED="1578490374038" MODIFIED="1578490381748"/>
+<node TEXT="freeplane" STYLE_REF="&#x5b50;&#x4e3b;&#x9898;" ID="ID_811945303" CREATED="1578490382422" MODIFIED="1578490391583"/>
+<node TEXT="Tomighty" STYLE_REF="&#x5b50;&#x4e3b;&#x9898;" ID="ID_1930248335" CREATED="1578490399462" MODIFIED="1578490421937"/>
+<node TEXT="Markdown" STYLE_REF="&#x5b50;&#x4e3b;&#x9898;" ID="ID_594337340" CREATED="1578490446633" MODIFIED="1578490451849"/>
 </node>
 </node>
 </map>
